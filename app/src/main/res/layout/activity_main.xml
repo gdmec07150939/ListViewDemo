@@ -12,7 +12,5 @@
     <ListView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/listView"
-        android:layout_centerhorizontal="true"
-        android:layout_centerVertrical="true"/>
+        android:id="@+id/listView"/>
 </RelativeLayout>
